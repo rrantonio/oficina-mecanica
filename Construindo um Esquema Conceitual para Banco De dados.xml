@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
+  <diagram name="Oficina Mecânica" id="-b_f4jwGhhGRGnuZsqxk">
+    <mxGraphModel dx="1050" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rH95rKgRMTiSTt7s6Iv6-1" value="Cliente" style="shape=rectangle;fillColor=#FFD700;" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rH95rKgRMTiSTt7s6Iv6-2" value="Veículo" style="shape=rectangle;fillColor=#ADD8E6;" vertex="1" parent="1">
+          <mxGeometry x="300" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rH95rKgRMTiSTt7s6Iv6-3" value="Ordem de Serviço" style="shape=rectangle;fillColor=#90EE90;" vertex="1" parent="1">
+          <mxGeometry x="500" y="100" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rH95rKgRMTiSTt7s6Iv6-4" value="Serviço" style="shape=rectangle;fillColor=#FFB6C1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rH95rKgRMTiSTt7s6Iv6-5" value="Peça" style="shape=rectangle;fillColor=#FFA500;" vertex="1" parent="1">
+          <mxGeometry x="300" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rH95rKgRMTiSTt7s6Iv6-6" value="Mecânico" style="shape=rectangle;fillColor=#DDA0DD;" vertex="1" parent="1">
+          <mxGeometry x="500" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rH95rKgRMTiSTt7s6Iv6-7" edge="1" parent="1" source="rH95rKgRMTiSTt7s6Iv6-1" target="rH95rKgRMTiSTt7s6Iv6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rH95rKgRMTiSTt7s6Iv6-8" edge="1" parent="1" source="rH95rKgRMTiSTt7s6Iv6-2" target="rH95rKgRMTiSTt7s6Iv6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rH95rKgRMTiSTt7s6Iv6-9" edge="1" parent="1" source="rH95rKgRMTiSTt7s6Iv6-3" target="rH95rKgRMTiSTt7s6Iv6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rH95rKgRMTiSTt7s6Iv6-10" edge="1" parent="1" source="rH95rKgRMTiSTt7s6Iv6-3" target="rH95rKgRMTiSTt7s6Iv6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rH95rKgRMTiSTt7s6Iv6-11" edge="1" parent="1" source="rH95rKgRMTiSTt7s6Iv6-3" target="rH95rKgRMTiSTt7s6Iv6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
